@@ -1,0 +1,10 @@
+.animals {
+  width: 30%;
+  float:left;
+  list-style: none;
+}
+
+.animals img {
+  float: left;
+  padding-top: 10px;
+}
